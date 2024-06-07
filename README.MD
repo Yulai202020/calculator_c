@@ -5,6 +5,6 @@ You can write simple expressions and get result.
 
 # Run
 ```bash
-gcc simple_calc.c -o calc
+gcc simple_calc.c -o calc -lreadline
 ./calc
 ```
